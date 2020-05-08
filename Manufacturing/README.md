@@ -22,17 +22,21 @@ Here you can find further explanations of connections between mechanism parts
 ## How connections are build?
 We had to makeconnections, that hold the connection firmly, but parts should rotate freely. 
 Links rotate around pin, the other free end of the pin is blocked by шайба (we don't know hoe to translate it). We fasten with glue, also gap betweel pin and шайба is small (0.05mm), which also strengthens the connection
+
 <img src="./images/шайба.png" width="400">
 <img src="./images/ось.png" width="400">
 
 We decieded to use 1.5mm steel forelock that will hold the connection tight
+
 <img src="./images/шплинт.png" width="400">
 
 The overall idea, that in created for each connection. Of course, some modifications for different connections appear
+
 <img src="./images/крепление.png" width="500">
 <img src="./images/соединение.png" width="400">
   
 It is also worth to mention that we took into account gaps between elements. To allow rotations, 0.1 gap is made 
+
 <img src="./images/промежутки.jpg" width="400">
 
 ## Gear connection:
