@@ -30,22 +30,6 @@ The overall idea, that in created for each connection. Of course, some modificat
 It is also worth to mention that we took into account gaps between elements. To allow rotations, 0.1 gap is made 
 <img src="./images/промежутки.jpg" width="400">
 
-### There are problems, that we faced: 
-* the tip is severely deformed, due to the reason, that bear force is applied to end of link is big. Here you can see deflection and of tool tip. There also is a video with deflection process. Also all links in mechanism are insufficiently tortified, thus, we need to strengthen them somehow
-
-<img src="./images/t1.png" width="400">
-<img src="./images/t2.png" width="400">
-<img src="./images/l1.png" width="400">
- 
- >  How we decieded to solve it? We decieded that to make the link and tip more lasting, we need to strandthen the mechanism
-
-  
-
-* gears are to narrow, original width does not allow to withstand attached moments. We assumed that it is possibe to reduce deflection increacing the width of gears, but teeth deflection steel exis
-<img src="./images/m1.png" width="400">
-<img src="./images/m2.png" width="400">
-<img src="./images/b1.png" width="400">
-
- > That is why we decieded not only to make wheels wider, but also increase theeth size
- 
- 
+### Gear connection:
+We connected gears the same eay, but also add 1mm silicon interlayer between gear and шайба to reduce wear
+<img src="./images/шестерня.png" width="400">
