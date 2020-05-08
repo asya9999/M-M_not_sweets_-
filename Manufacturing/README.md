@@ -17,7 +17,7 @@ Here you can find further explanations of connections between mechanism parts
 
 ### Motion study - https://youtu.be/kTbule8VVtY 
 ### Assemply - https://youtu.be/-2KDfPygNq8  
-
+### Link to project - https://a360.co/2yCXbjP
 
 ## How connections are build?
 We had to makeconnections, that hold the connection firmly, but parts should rotate freely. 
