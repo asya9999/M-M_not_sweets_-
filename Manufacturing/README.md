@@ -31,5 +31,6 @@ It is also worth to mention that we took into account gaps between elements. To 
 <img src="./images/промежутки.jpg" width="400">
 
 ### Gear connection:
-We connected gears the same eay, but also add 1mm silicon interlayer between gear and шайба to reduce wear
+We connected gears the same eay, but also add 1mm silicon interlayer between gear and шайба to reduce wear. We also increased their size to strengthen the bracing
 <img src="./images/шестерня.png" width="400">
+
