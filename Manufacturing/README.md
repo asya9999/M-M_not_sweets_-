@@ -51,15 +51,15 @@ We added steel sheets to top and down parts of mechanism. Now thwey can blow hea
 
 
 ## Connections between not moving parts
-We need to connect wall and floor. Drill a hole in the wood (10mm, inluding 2mm of bigger size for hat of pin). Also don't forget to add 10mm hole in parts, that we want to connect to floor
+We need to connect wall and floor. Drill a hole in the wood (10mm, inluding 2mm of bigger size for hat of pin). Also don't forget to add 10mm hole in parts, that we want to connect to floor. Use glue for making strong connections
 
 <img src="./images/гвоздь.png" width="400">
 <img src="./images/крепеж.png" width="400">
 
 
 ## Connections to motor
-It is important to connect small gear with motor. Here you can see fasteners motor. Instead of real motor we used 
+It is important to connect small gear with motor. Here you can see fasteners motor. Instead of real motor we used only its val
 
 <img src="./images/мотор.png" width="400">
-<img src="./images/мотор1.png" width="400">
+<img src="./images/мотор2.png" width="400">
 
