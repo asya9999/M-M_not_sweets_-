@@ -47,6 +47,7 @@ We added steel sheets to top and down parts of mechanism. Now thwey can blow hea
 
 ## Connections between not moving parts:
 We need to connect wall and floor. Drill a hole in the wood (10mm, inluding 2mm of bigger size for hat of pin). Also don't forget to add 10mm hole in parts, that we want to connect to floor
+\\
 <img src="./images/гвоздь.png" width="400">
 <img src="./images/крепеж.png" width="400">
 
