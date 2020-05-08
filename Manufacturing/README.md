@@ -13,6 +13,10 @@ There are tasks, that we had to implement
 
 Here you can find further explanations of connections between mechanism parts
 
+### Motion study - https://youtu.be/kTbule8VVtY 
+### Assemply - https://youtu.be/-2KDfPygNq8  
+
+
 ## How connections are build?
 We had to makeconnections, that hold the connection firmly, but part rotate freely. 
 
@@ -33,4 +37,13 @@ It is also worth to mention that we took into account gaps between elements. To 
 ### Gear connection:
 We connected gears the same eay, but also add 1mm silicon interlayer between gear and шайба to reduce wear. We also increased their size to strengthen the bracing
 <img src="./images/шестерня.png" width="400">
+
+### Link modification:
+We added steel sheets to top and down parts of mechanism. Now thwey can blow heavy loads. Create a hole 0.05 bigger in width, height and width that steel sheet which we are going to use. Use glue to connect parts
+<img src="./images/укрепление.png" width="400">
+
+
+### Connections between not moving parts:
+We need to connect wall and floor.
+<img src="./images/укрепление.png" width="400">
 
