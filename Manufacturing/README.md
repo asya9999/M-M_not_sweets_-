@@ -39,20 +39,27 @@ It is also worth to mention that we took into account gaps between elements. To 
 
 <img src="./images/промежутки.jpg" width="400">
 
-## Gear connection:
+## Gear connection
 We connected gears the same eay, but also add 1mm silicon interlayer between gear and шайба to reduce wear. We also increased their size to strengthen the bracing
 
 <img src="./images/шестерня.png" width="400">
 
-## Link modification:
+## Link modification
 We added steel sheets to top and down parts of mechanism. Now thwey can blow heavy loads. Create a hole 0.05 bigger in width, height and width that steel sheet which we are going to use. Use glue to connect parts
 
 <img src="./images/укрепление.png" width="400">
 
 
-## Connections between not moving parts:
+## Connections between not moving parts
 We need to connect wall and floor. Drill a hole in the wood (10mm, inluding 2mm of bigger size for hat of pin). Also don't forget to add 10mm hole in parts, that we want to connect to floor
 
 <img src="./images/гвоздь.png" width="400">
 <img src="./images/крепеж.png" width="400">
+
+
+## Connections to motor
+It is important to connect small gear with motor. Here you can see fasteners motor. Instead of real motor we used 
+
+<img src="./images/мотор.png" width="400">
+<img src="./images/мотор1.png" width="400">
 
