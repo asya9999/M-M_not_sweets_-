@@ -23,8 +23,8 @@ links rotate around pin, the other free and is blocked by шайба (we don't k
 We decieded to use 1.5mm steel forelock that will hold the connection tight
 <img src="./images/шплинт.png" width="400">
 
-The overall idea
-<img src="./images/крепление.png" width="400">
+The overall idea, that in created for each connection
+<img src="./images/крепление.png" width="500">
 <img src="./images/соединение.png" width="400">
   
 It is also worth to mention that we took into account gaps between elements. To allow rotations, 0.1 gap is made 
