@@ -1,20 +1,34 @@
-#  CAE analysis
+#  Manufacturing the mechanism
 >Here is our report on the work undertaken
 
-The main goal was to make static stress and dynamic load analysis in CAD system
+The main goal was to build detailed CAD model
 
 ## Introduction 
-When designing mechanical objects we often want them to be just adequately sturdy. We want make mechanism in such a way to reduce chances of breakage, don’t allow tool to be too whimpy 
+There are tasks, that we had to implement
+1. Сделать CAD модель максимально подробную, как будто вы ее собрали (добавить винти, гайки, подшипники и все все все)
+2. Заснять видео (motion study к примеру), как ваша деталь двигается
+3. Сделать видео сборки вашей конструкции
+4. Расшарить со мной папку со всеми материалами (share the project)
+5. Залить в этот проект pdf с доп пояснениями, если требуются
 
-By simulating static stress we are going to strip down unnecessary parts and reinforce weak-points BEFORE sending them to production
+Here you can find further explanations of connections between mechanism parts
 
-We applied forces, taken from 2 assignment - dynamic of mechanism. There will be links to previous results
+## How connections are build?
+We had to makeconnections, that hold the connection firmly, but part rotate freely. 
 
->Problems faced: all computation for CAE analysis take a LOT of time, thus, analysis of all cases and solution of different problems took a vast amount of our life
+links rotate around pin, the other free and is blocked by шайба (we don't know hoe to translate it). We fasten with glue, also gap betweel pin and шайба is small (0.05mm), which also strengthens the connection
+<img src="./images/шайба.png" width="400">
+<img src="./images/ось.png" width="400">
 
-## Static Stress
-Firstly, we applied forces to 3D model created in previous assignment. We choose configuration, in which bear force is the greatest. It is a point when the tip reaches the lowest point - when maximum force acts on bear, it should be crushed
+We decieded to use 1.5mm steel forelock that will hold the connection tight
+<img src="./images/шплинт.png" width="400">
 
+The overall idea
+<img src="./images/крепление.png" width="400">
+<img src="./images/соединение.png" width="400">
+  
+It is also worth to mention that we took into account gaps between elements. To allow rotations, 0.1 gap is made 
+<img src="./images/промежутки.jpg" width="400">
 
 ### There are problems, that we faced: 
 * the tip is severely deformed, due to the reason, that bear force is applied to end of link is big. Here you can see deflection and of tool tip. There also is a video with deflection process. Also all links in mechanism are insufficiently tortified, thus, we need to strengthen them somehow
