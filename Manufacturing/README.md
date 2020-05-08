@@ -16,7 +16,7 @@ Here you can find further explanations of connections between mechanism parts
 
 
 ### Motion study - https://youtu.be/kTbule8VVtY 
-### Assemply - https://youtu.be/-2KDfPygNq8  
+### Assembly - https://youtu.be/-2KDfPygNq8  
 ### Link to project - https://a360.co/2yCXbjP
 
 ### How are we going to connect different materials, if strong connections are needed?
